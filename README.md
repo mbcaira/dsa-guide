@@ -1,3 +1,2 @@
 # dsa-guide
-Intuition and explanations behind DSA problems. 
-Would use Google Docs instead but markdown
+Notes on intuition and simple as possible explanations for DSA topics. For interview prep!
